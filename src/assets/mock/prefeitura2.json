@@ -1,0 +1,246 @@
+{
+  "Escolas": [
+    {
+      "id": 1,
+      "nome": "Fausto Cardoso Figueira de Mello",
+      "endereco": "Rua Francisco Alves 1",
+      "capacidadeTurma": "50"
+    },
+    {
+      "id": 2,
+      "nome": "Professor Paulo Teixera",
+      "endereco": "Rua Condor 34",
+      "capacidadeTurma": "50"
+    },
+    {
+      "id": 3,
+      "nome": "Padre Aristides Greve",
+      "endereco": "Rua XV de Novembro, 450",
+      "capacidadeTurma": "50"
+    },
+    {
+      "id": 4,
+      "nome": "Damaris Bueno",
+      "endereco": "Av. São José, 5023",
+      "capacidadeTurma": "50"
+    },
+    {
+      "id": 5,
+      "nome": "teste post",
+      "endereco": "Rua Francisco Alves 1",
+      "capacidadeTurma": "1"
+    },
+    {
+      "nome": "jose carlos",
+      "endereco": "rua 123 da silva",
+      "capacidadeTurma": "40",
+      "id": 6
+    }
+  ],
+  "Turmas": [
+    {
+      "id": 1,
+      "idEscola": 1,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 2,
+      "idEscola": 1,
+      "capacidade": 30,
+      "periodo": "tarde"
+    },
+    {
+      "id": 3,
+      "idEscola": 1,
+      "capacidade": 30,
+      "periodo": "noite"
+    },
+    {
+      "id": 4,
+      "idEscola": 1,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 5,
+      "idEscola": 2,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 6,
+      "idEscola": 2,
+      "capacidade": 30,
+      "periodo": "tarde"
+    },
+    {
+      "id": 7,
+      "idEscola": 2,
+      "capacidade": 30,
+      "periodo": "noite"
+    },
+    {
+      "id": 8,
+      "idEscola": 2,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 9,
+      "idEscola": 3,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 10,
+      "idEscola": 3,
+      "capacidade": 30,
+      "periodo": "tarde"
+    },
+    {
+      "id": 11,
+      "idEscola": 3,
+      "capacidade": 30,
+      "periodo": "noite"
+    },
+    {
+      "id": 12,
+      "idEscola": 3,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 13,
+      "idEscola": 4,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 14,
+      "idEscola": 4,
+      "capacidade": 30,
+      "periodo": "tarde"
+    },
+    {
+      "id": 15,
+      "idEscola": 4,
+      "capacidade": 30,
+      "periodo": "noite"
+    },
+    {
+      "id": 16,
+      "idEscola": 4,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 17,
+      "idEscola": 5,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 18,
+      "idEscola": 5,
+      "capacidade": 30,
+      "periodo": "tarde"
+    },
+    {
+      "id": 19,
+      "idEscola": 5,
+      "capacidade": 30,
+      "periodo": "noite"
+    },
+    {
+      "id": 20,
+      "idEscola": 5,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 21,
+      "idEscola": 6,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "id": 22,
+      "idEscola": 6,
+      "capacidade": 30,
+      "periodo": "tarde"
+    },
+    {
+      "id": 23,
+      "idEscola": 6,
+      "capacidade": 30,
+      "periodo": "noite"
+    },
+    {
+      "id": 24,
+      "idEscola": 6,
+      "capacidade": 30,
+      "periodo": "manhã"
+    },
+    {
+      "idEscola": 1,
+      "capacidade": 30,
+      "periodo": "tarde",
+      "id": 25
+    },
+    {
+      "idEscola": 1,
+      "capacidade": 30,
+      "periodo": "tarde",
+      "id": 26
+    },
+    {
+      "periodo": "tarde",
+      "capacidade": "15",
+      "idEscola": "1",
+      "id": 27
+    },
+    {
+      "periodo": "tarde",
+      "capacidade": "15",
+      "idEscola": "1",
+      "id": 28
+    },
+    {
+      "periodo": "tarde",
+      "capacidade": "15",
+      "idEscola": "1",
+      "id": 29
+    },
+    {
+      "periodo": "tarde",
+      "capacidade": "15",
+      "idEscola": "1",
+      "id": 30
+    },
+    {
+      "periodo": "teste",
+      "capacidade": "20",
+      "idEscola": "",
+      "id": 31
+    },
+    {
+      "periodo": "teste",
+      "capacidade": "15",
+      "idEscola": "",
+      "id": 32
+    },
+    {
+      "periodo": "teste",
+      "capacidade": "12",
+      "idEscola": "",
+      "id": 33
+    },
+    {
+      "periodo": "teste",
+      "capacidade": "20",
+      "idEscola": 1,
+      "id": 34
+    }
+  ]
+}
